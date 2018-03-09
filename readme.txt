@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 push to origin
 add rsa key ssh
+new commit branch
